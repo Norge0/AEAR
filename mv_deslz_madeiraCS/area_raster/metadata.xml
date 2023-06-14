@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="pt"><Esri><CreaDate>20230603</CreaDate><CreaTime>21580700</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.7\ArcToolbox\Toolboxes\Conversion Tools.tbx\PolygonToRaster" Date="20230603" Time="215807">PolygonToRaster areabuffer areabuffer C:\mv_desliz\area_raster CELL_CENTER NONE 5</Process></lineage></DataProperties></Esri></metadata>
