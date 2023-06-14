@@ -1,0 +1,6 @@
+Projection    UTM
+Zone          28
+Spheroid      INT1909
+Units         METERS
+Zunits        NO
+Parameters    
