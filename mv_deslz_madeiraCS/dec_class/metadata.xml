@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata xml:lang="pt"><Esri><CreaDate>20230603</CreaDate><CreaTime>19251600</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.7\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\Reclassify" Date="20230603" Time="192516">Reclassify declive VALUE "0 5 1;5 10 2;10 20 3;20 30 4;30 40 5;40 60 6;60 86,708557 7" C:\mv_desliz\dec_class DATA</Process></lineage></DataProperties></Esri></metadata>
