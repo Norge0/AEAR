@@ -5,4 +5,5 @@ e Probabilidade <i>Bayesiana</i></B><br>
 <p></p>
 https://github.com/Norge0/AEAR
 <p></p>
+<img src="equacao_mapas.PNG" alt="image" width="" height="500">
 <img src="map_vi.png" alt="image" width="" height="500">
