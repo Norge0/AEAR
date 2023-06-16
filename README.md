@@ -1,7 +1,7 @@
 # AEAR
-<B><i>Avaliação da suscetibilidade à ocorrência de deslizamentos no centro sul
+<B>Avaliação da suscetibilidade à ocorrência de deslizamentos no centro sul
 da ilha da Madeira com a aplicação dos métodos do Valor Informativo
-e Probabilidade Bayesiana</B><br>
+e Probabilidade <i>Bayesiana</i></B><br>
 <p></p>
 https://github.com/Norge0/AEAR
 <p></p>
